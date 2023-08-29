@@ -10,3 +10,4 @@ Edit this page via a pull-request on [GitHub][github].
 Here are links to each member's personal page.
 
 - [acmiyaguchi](./acmiyaguchi)
+- [msiddiqui60](./msiddiqui60)
