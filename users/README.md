@@ -11,3 +11,4 @@ Here are links to each member's personal page.
 
 - [acmiyaguchi](./acmiyaguchi)
 - [twan](./twan)
+- [maxinec](./maxinec)
